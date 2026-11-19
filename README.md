@@ -1,8 +1,8 @@
 # TEKOHUB – Smart Gadgets · Better Life
 
-\<p align="center">   \<b>A Modern Gadget & Accessories E-commerce Platform\</b> \</p>
+**A Modern Gadget & Accessories E-commerce Platform**
 
-\<p align="center">   \<a href="[https://tekohub-xi.vercel.app/](https://tekohub-xi.vercel.app/)">Live Website\</a> \</p>
+🌐 [Visit Live Website](https://tekohub-xi.vercel.app/)
 
 ## About the Project
 
