@@ -81,6 +81,8 @@ GitHub: [@Marufkhan980](https://github.com/Marufkhan980)
 
 ---
 
-\<p align="center">
-&#x20; \<b>TEKOHUB – Smart Gadgets · Better Life\</b>
-\</p>
+---
+
+**TEKOHUB – Smart Gadgets · Better Life**
+
+Developed by Maruf Khan
