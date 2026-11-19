@@ -89,6 +89,14 @@ GitHub: [@Marufkhan980](https://github.com/Marufkhan980)
 
 ![TekoHub Products](tekohub-products.png)
 
+### Product Details
+
+![TekoHub Product Details](tekohub-product-details.png)
+
+### Checkout Page
+
+![TekoHub Checkout](tekohub-checkout.png)
+
 ---
 
 ---
