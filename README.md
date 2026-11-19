@@ -79,6 +79,12 @@ TEKOHUB/
 
 GitHub: [@Marufkhan980](https://github.com/Marufkhan980)
 
+## Screenshots
+
+### Homepage
+
+![TekoHub Homepage](tekohub-homepage.png)
+
 ---
 
 ---
